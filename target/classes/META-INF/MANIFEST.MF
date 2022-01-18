@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1642441806343
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: Revolut code quality assessment
+Bundle-SymbolicName: org.eclipse.krazo.core
+Bundle-Version: 3.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin 5.1.4
+Implementation-Title: Revolut code quality assessment
+Implementation-Version: 3.0.0-SNAPSHOT
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=11))"
+Specification-Title: Revolut code quality assessment
+Specification-Version: 3.0
+Tool: Bnd-5.1.1.202006162103
